@@ -1,2 +1,1 @@
-Object.freeze(y);
-console.log(Object.isFrozen(y));
+3, 4, 5
